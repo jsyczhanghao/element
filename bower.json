@@ -1,0 +1,13 @@
+{
+  "name": "element-ui",
+  "version": "1.2.4",
+  "description": "A Component Library for Vue.js.",
+  "main": "lib/element-ui.common.js",
+  "style": "lib/theme-default/index.css",
+  "dependencies": {
+    "async-validator": "yiminghe/async-validator#^1.6.6",
+    "babel-helper-vue-jsx-merge-props": "vuejs/babel-helper-vue-jsx-merge-props#^2.0.0",
+    "deepmerge": "^1.2.0",
+    "throttle-debounce": "niksy/throttle-debounce#^1.0.1"
+  }
+}
