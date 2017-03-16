@@ -5,7 +5,7 @@
   "main": "lib/element-ui.common.js",
   "style": "lib/theme-default/index.css",
   "dependencies": {
-    "async-validator": "jsyczhanghao/async-validator#master",
+    "async-validator": "jsyczhanghao/async-validator#bower",
     "babel-helper-vue-jsx-merge-props": "vuejs/babel-helper-vue-jsx-merge-props",
     "deepmerge": "^1.2.0",
     "throttle-debounce": "niksy/throttle-debounce#^1.0.1"
