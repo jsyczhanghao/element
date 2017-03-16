@@ -6,7 +6,7 @@
   "style": "lib/theme-default/index.css",
   "dependencies": {
     "async-validator": "yiminghe/async-validator#^1.6.6",
-    "babel-helper-vue-jsx-merge-props": "vuejs/babel-helper-vue-jsx-merge-props#^2.0.0",
+    "babel-helper-vue-jsx-merge-props": "vuejs/babel-helper-vue-jsx-merge-props",
     "deepmerge": "^1.2.0",
     "throttle-debounce": "niksy/throttle-debounce#^1.0.1"
   }
